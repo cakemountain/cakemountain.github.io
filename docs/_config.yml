@@ -21,7 +21,7 @@
 title: Try, Learn, Repeat
 email: mitchellkuchenberg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An engineering and life blog by Mitch Kuchenberg, a southeast Michigan
+  An engineering and life blog by Mitchell Kuchenberg, a southeast Michigan
   based data engineer and software developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

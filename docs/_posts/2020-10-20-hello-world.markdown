@@ -5,9 +5,9 @@ date:   2020-10-20 00:22:50 -0400
 categories: jekyll update
 ---
 
-Hey! My name is Mitch.
+My name is Mitch.
 
-![Portrait](https://github.com/cakemountain/cakemountain.github.io/blob/main/static/image.png?raw=true =20x)
+![Portrait](https://github.com/cakemountain/cakemountain.github.io/blob/main/static/portrait.png?raw=true =20x)
 
 I'm a data engineer and software developer based out of Southeast Michigan. I love startups. I run, rock climb, and ride motorcycles. I have two cats and way too many plants.
 
@@ -27,4 +27,4 @@ Mitch
 
 _Steps of oak and gravel point to an expanse of blueberry pie, run-through by a glistening amber brooch. The air is dry and sweet and aches of cedar._
 
--- _Climbing, Warily_
+--_Climbing, Warily_
